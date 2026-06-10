@@ -17,7 +17,7 @@ header{
     align-items:center;
     text-align:center;
     padding:20px;
-    background:linear-gradient(135deg,#0f172a,#1e293b);
+    background:linear-gradient(135deg,#040508,#1e293b);
 }
 
 .perfil img{
@@ -106,6 +106,6 @@ h2{
 footer{
     text-align:center;
     padding:30px;
-    background:#020617;
+    background:#040508;
     color:#94a3b8;
 }
