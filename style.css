@@ -21,12 +21,12 @@ header{
 }
 
 .perfil img{
-    width:220px;
-    height:220px;
-    border-radius:50%;
+    width:230px;
+    height:230px;
+    border-radius:55%;
     object-fit:cover;
-    border:5px solid #38bdf8;
-    box-shadow:0 0 30px rgba(56,189,248,.5);
+    border:5px solid #286c8a;
+    box-shadow:0 0 30px rgba(30,95,122,.5);
 }
 
 .perfil h1{
